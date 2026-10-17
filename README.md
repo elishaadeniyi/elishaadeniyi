@@ -22,7 +22,7 @@ Pinned repositories below showcase Shopify sections, custom storefront designs, 
 #### Let's work together
 
 - 🌐 Portfolio: https://www.elishaadeniyi.com
-- 💼 LinkedIn: https://www.linkedin.com/in/elishaa-dev
+- 💼 LinkedIn: https://www.linkedin.com/in/elishaadeniyi
 - 📧 Email: hello@elishaadeniyi.com
 - 💬 Available for Shopify projects on Upwork and direct contracts
 
